@@ -1,4 +1,5 @@
 Co-registration with AFNI
+
 Co-registration means to bring two objects into the same space so that each location within one object corresponds to the same location in the other. Here one image is anatomical we can call it our standard template, second image we take from data to superimpose on template. In AFNI we use tool call “Nudge Dataset” for co-registration of images. We can rotate two volumes in any possible way to arrange them good manner by using this tool.
 In AFNI we see images in three windows called Axial, sagittal and coronal respectively. 
 
